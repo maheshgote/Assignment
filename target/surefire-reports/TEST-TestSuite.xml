@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.1" name="TestSuite" time="28.829" tests="5" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.1" name="TestSuite" time="25.913" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="webdriver.chrome.driver" value="C:\Users\Rudra\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\Rudra\AppData\Local\Temp\surefire3483681214887890910\surefirebooter-20240708145634944_3.jar C:\Users\Rudra\AppData\Local\Temp\surefire3483681214887890910 2024-07-08T14-56-34_823-jvmRun1 surefire-20240708145634944_1tmp surefire_0-20240708145634944_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Rudra\AppData\Local\Temp\surefire10558392596268509792\surefirebooter-20240708150432931_3.jar C:\Users\Rudra\AppData\Local\Temp\surefire10558392596268509792 2024-07-08T15-04-32_728-jvmRun1 surefire-20240708150432931_1tmp surefire_0-20240708150432931_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\Framework\target\test-classes;D:\Framework\target\classes;C:\Users\Rudra\.m2\repository\io\github\bonigarcia\webdrivermanager\5.8.0\webdrivermanager-5.8.0.jar;C:\Users\Rudra\.m2\repository\org\slf4j\slf4j-api\2.0.12\slf4j-api-2.0.12.jar;C:\Users\Rudra\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\Rudra\.m2\repository\com\github\docker-java\docker-java\3.3.6\docker-java-3.3.6.jar;C:\Users\Rudra\.m2\repository\com\github\docker-java\docker-java-core\3.3.6\docker-java-core-3.3.6.jar;C:\Users\Rudra\.m2\repository\com\github\docker-java\docker-java-api\3.3.6\docker-java-api-3.3.6.jar;C:\Users\Rudra\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\Rudra\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\Rudra\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\Rudra\.m2\repository\org\bouncycastle\bcpkix-jdk18on\1.76\bcpkix-jdk18on-1.76.jar;C:\Users\Rudra\.m2\repository\org\bouncycastle\bcprov-jdk18on\1.76\bcprov-jdk18on-1.76.jar;C:\Users\Rudra\.m2\repository\org\bouncycastle\bcutil-jdk18on\1.76\bcutil-jdk18on-1.76.jar;C:\Users\Rudra\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\Rudra\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.3.6\docker-java-transport-httpclient5-3.3.6.jar;C:\Users\Rudra\.m2\repository\com\github\docker-java\docker-java-transport\3.3.6\docker-java-transport-3.3.6.jar;C:\Users\Rudra\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\Rudra\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\Rudra\.m2\repository\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;C:\Users\Rudra\.m2\repository\org\apache\commons\commons-compress\1.26.1\commons-compress-1.26.1.jar;C:\Users\Rudra\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\Rudra\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\Rudra\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\Rudra\.m2\repository\org\apache\poi\poi\5.2.5\poi-5.2.5.jar;C:\Users\Rudra\.m2\repository\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar;C:\Users\Rudra\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Rudra\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\Rudra\.m2\repository\commons-io\commons-io\2.15.0\commons-io-2.15.0.jar;C:\Users\Rudra\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\Rudra\.m2\repository\org\apache\logging\log4j\log4j-api\2.21.1\log4j-api-2.21.1.jar;C:\Users\Rudra\.m2\repository\org\apache\poi\poi-ooxml\5.2.5\poi-ooxml-5.2.5.jar;C:\Users\Rudra\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.5\poi-ooxml-lite-5.2.5.jar;C:\Users\Rudra\.m2\repository\org\apache\xmlbeans\xmlbeans\5.2.0\xmlbeans-5.2.0.jar;C:\Users\Rudra\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-java\4.10.0\selenium-java-4.10.0.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-api\4.10.0\selenium-api-4.10.0.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.10.0\selenium-chrome-driver-4.10.0.jar;C:\Users\Rudra\.m2\repository\com\google\auto\service\auto-service-annotations\1.0.1\auto-service-annotations-1.0.1.jar;C:\Users\Rudra\.m2\repository\com\google\auto\service\auto-service\1.0.1\auto-service-1.0.1.jar;C:\Users\Rudra\.m2\repository\com\google\auto\auto-common\1.2\auto-common-1.2.jar;C:\Users\Rudra\.m2\repository\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\Rudra\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Rudra\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Rudra\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Rudra\.m2\repository\org\checkerframework\checker-qual\3.12.0\checker-qual-3.12.0.jar;C:\Users\Rudra\.m2\repository\com\google\errorprone\error_prone_annotations\2.11.0\error_prone_annotations-2.11.0.jar;C:\Users\Rudra\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.10.0\selenium-chromium-driver-4.10.0.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-json\4.10.0\selenium-json-4.10.0.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.10.0\selenium-manager-4.10.0.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v112\4.10.0\selenium-devtools-v112-4.10.0.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v113\4.10.0\selenium-devtools-v113-4.10.0.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v114\4.10.0\selenium-devtools-v114-4.10.0.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.10.0\selenium-devtools-v85-4.10.0.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.10.0\selenium-edge-driver-4.10.0.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.10.0\selenium-firefox-driver-4.10.0.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-http\4.10.0\selenium-http-4.10.0.jar;C:\Users\Rudra\.m2\repository\dev\failsafe\failsafe\3.3.1\failsafe-3.3.1.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.10.0\selenium-ie-driver-4.10.0.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.10.0\selenium-remote-driver-4.10.0.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-buffer\4.1.92.Final\netty-buffer-4.1.92.Final.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-codec-http\4.1.92.Final\netty-codec-http-4.1.92.Final.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-codec\4.1.92.Final\netty-codec-4.1.92.Final.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-handler\4.1.92.Final\netty-handler-4.1.92.Final.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-common\4.1.92.Final\netty-common-4.1.92.Final.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-transport-classes-epoll\4.1.92.Final\netty-transport-classes-epoll-4.1.92.Final.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-transport-classes-kqueue\4.1.92.Final\netty-transport-classes-kqueue-4.1.92.Final.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-transport-native-epoll\4.1.92.Final\netty-transport-native-epoll-4.1.92.Final.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.92.Final\netty-transport-native-kqueue-4.1.92.Final.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.92.Final\netty-transport-native-unix-common-4.1.92.Final.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-transport\4.1.92.Final\netty-transport-4.1.92.Final.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-resolver\4.1.92.Final\netty-resolver-4.1.92.Final.jar;C:\Users\Rudra\.m2\repository\io\opentelemetry\opentelemetry-api\1.26.0\opentelemetry-api-1.26.0.jar;C:\Users\Rudra\.m2\repository\io\opentelemetry\opentelemetry-context\1.26.0\opentelemetry-context-1.26.0.jar;C:\Users\Rudra\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.26.0\opentelemetry-exporter-logging-1.26.0.jar;C:\Users\Rudra\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.26.0\opentelemetry-sdk-metrics-1.26.0.jar;C:\Users\Rudra\.m2\repository\io\opentelemetry\opentelemetry-extension-incubator\1.26.0-alpha\opentelemetry-extension-incubator-1.26.0-alpha.jar;C:\Users\Rudra\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.26.0-alpha\opentelemetry-sdk-logs-1.26.0-alpha.jar;C:\Users\Rudra\.m2\repository\io\opentelemetry\opentelemetry-api-logs\1.26.0-alpha\opentelemetry-api-logs-1.26.0-alpha.jar;C:\Users\Rudra\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.26.0-alpha\opentelemetry-api-events-1.26.0-alpha.jar;C:\Users\Rudra\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.26.0\opentelemetry-sdk-common-1.26.0.jar;C:\Users\Rudra\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.26.0\opentelemetry-sdk-extension-autoconfigure-spi-1.26.0.jar;C:\Users\Rudra\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.26.0-alpha\opentelemetry-sdk-extension-autoconfigure-1.26.0-alpha.jar;C:\Users\Rudra\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.26.0\opentelemetry-sdk-trace-1.26.0.jar;C:\Users\Rudra\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.26.0\opentelemetry-sdk-1.26.0.jar;C:\Users\Rudra\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.26.0-alpha\opentelemetry-semconv-1.26.0-alpha.jar;C:\Users\Rudra\.m2\repository\net\bytebuddy\byte-buddy\1.14.4\byte-buddy-1.14.4.jar;C:\Users\Rudra\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Rudra\.m2\repository\org\asynchttpclient\async-http-client\2.12.3\async-http-client-2.12.3.jar;C:\Users\Rudra\.m2\repository\org\asynchttpclient\async-http-client-netty-utils\2.12.3\async-http-client-netty-utils-2.12.3.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-codec-socks\4.1.60.Final\netty-codec-socks-4.1.60.Final.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-handler-proxy\4.1.60.Final\netty-handler-proxy-4.1.60.Final.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-transport-native-epoll\4.1.60.Final\netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar;C:\Users\Rudra\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.60.Final\netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar;C:\Users\Rudra\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\Rudra\.m2\repository\com\typesafe\netty\netty-reactive-streams\2.0.4\netty-reactive-streams-2.0.4.jar;C:\Users\Rudra\.m2\repository\com\sun\activation\jakarta.activation\1.2.2\jakarta.activation-1.2.2.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.10.0\selenium-safari-driver-4.10.0.jar;C:\Users\Rudra\.m2\repository\org\seleniumhq\selenium\selenium-support\4.10.0\selenium-support-4.10.0.jar;C:\Users\Rudra\.m2\repository\org\testng\testng\7.7.1\testng-7.7.1.jar;C:\Users\Rudra\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Rudra\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\Rudra\.m2\repository\org\slf4j\slf4j-simple\2.0.13\slf4j-simple-2.0.13.jar;C:\Users\Rudra\.m2\repository\com\relevantcodes\extentreports\2.41.2\extentreports-2.41.2.jar;C:\Users\Rudra\.m2\repository\org\jsoup\jsoup\1.8.3\jsoup-1.8.3.jar;C:\Users\Rudra\.m2\repository\org\xerial\sqlite-jdbc\3.8.11.1\sqlite-jdbc-3.8.11.1.jar;C:\Users\Rudra\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\Rudra\.m2\repository\org\mongodb\mongodb-driver\3.0.4\mongodb-driver-3.0.4.jar;C:\Users\Rudra\.m2\repository\org\mongodb\bson\3.0.4\bson-3.0.4.jar;C:\Users\Rudra\.m2\repository\org\mongodb\mongodb-driver-core\3.0.4\mongodb-driver-core-3.0.4.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Rudra\AppData\Local\Temp\surefire3483681214887890910\surefirebooter-20240708145634944_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Rudra\AppData\Local\Temp\surefire10558392596268509792\surefirebooter-20240708150432931_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.10+11-LTS-240"/>
@@ -57,7 +57,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="validateCartValueShown" classname="ecommerce.ecommerce.test.AddToCarttest" time="0.678">
+  <testcase name="validateCartValueShown" classname="ecommerce.ecommerce.test.AddToCarttest" time="0.705">
     <system-out><![CDATA[properties file loaded
 properties file loaded
 properties file loaded
@@ -74,14 +74,14 @@ Found Element By : By.id: password
 Found Element By : By.id: login-button
 Found Element By : By.id: login-button
 Found Element By : By.id: login-button
-Trying to click on: [[ChromeDriver: chrome on windows (a06a5daa28f2479c12ea76afed1391e6)] -> id: login-button]
-Clicked on: [[ChromeDriver: chrome on windows (a06a5daa28f2479c12ea76afed1391e6)] -> id: login-button]
+Trying to click on: [[ChromeDriver: chrome on windows (9037375aa396f510b09641e4a4f48d2a)] -> id: login-button]
+Clicked on: [[ChromeDriver: chrome on windows (9037375aa396f510b09641e4a4f48d2a)] -> id: login-button]
 properties file loaded
 Found Element By : By.id: add-to-cart-sauce-labs-backpack
 Found Element By : By.id: add-to-cart-sauce-labs-backpack
 Found Element By : By.id: add-to-cart-sauce-labs-backpack
-Trying to click on: [[ChromeDriver: chrome on windows (a06a5daa28f2479c12ea76afed1391e6)] -> id: add-to-cart-sauce-labs-backpack]
-Clicked on: [[ChromeDriver: chrome on windows (a06a5daa28f2479c12ea76afed1391e6)] -> id: add-to-cart-sauce-labs-backpack]
+Trying to click on: [[ChromeDriver: chrome on windows (9037375aa396f510b09641e4a4f48d2a)] -> id: add-to-cart-sauce-labs-backpack]
+Clicked on: [[ChromeDriver: chrome on windows (9037375aa396f510b09641e4a4f48d2a)] -> id: add-to-cart-sauce-labs-backpack]
 Found Element By : By.className: shopping_cart_badge
 Found Element By : By.className: shopping_cart_badge
 Found Element By : By.className: shopping_cart_badge
@@ -89,36 +89,36 @@ Found Element By : By.className: shopping_cart_badge
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Rudra\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
-Jul 08, 2024 2:56:36 PM org.openqa.selenium.remote.service.DriverService$Builder getLogOutput
+Jul 08, 2024 3:04:34 PM org.openqa.selenium.remote.service.DriverService$Builder getLogOutput
 INFO: Driver logs no longer sent to console by default; https://www.selenium.dev/documentation/webdriver/drivers/service/#setting-log-output
-Jul 08, 2024 2:56:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Jul 08, 2024 3:04:35 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find CDP implementation matching 126
-Jul 08, 2024 2:56:38 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+Jul 08, 2024 3:04:35 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.10.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="validateYourCartPage" classname="ecommerce.ecommerce.test.AddToCarttest" time="0.146">
+  <testcase name="validateYourCartPage" classname="ecommerce.ecommerce.test.AddToCarttest" time="0.15">
     <system-out><![CDATA[Found Element By : By.className: shopping_cart_badge
 Found Element By : By.className: shopping_cart_badge
 Found Element By : By.className: shopping_cart_badge
-Trying to click on: [[ChromeDriver: chrome on windows (a06a5daa28f2479c12ea76afed1391e6)] -> class name: shopping_cart_badge]
-Clicked on: [[ChromeDriver: chrome on windows (a06a5daa28f2479c12ea76afed1391e6)] -> class name: shopping_cart_badge]
+Trying to click on: [[ChromeDriver: chrome on windows (9037375aa396f510b09641e4a4f48d2a)] -> class name: shopping_cart_badge]
+Clicked on: [[ChromeDriver: chrome on windows (9037375aa396f510b09641e4a4f48d2a)] -> class name: shopping_cart_badge]
 properties file loaded
 Found Element By : By.className: inventory_item_name
 ]]></system-out>
   </testcase>
-  <testcase name="validateUserInformationPage" classname="ecommerce.ecommerce.test.AddToCarttest" time="0.18">
+  <testcase name="validateUserInformationPage" classname="ecommerce.ecommerce.test.AddToCarttest" time="0.183">
     <system-out><![CDATA[Found Element By : By.id: checkout
 Found Element By : By.id: checkout
 Found Element By : By.id: checkout
-Trying to click on: [[ChromeDriver: chrome on windows (a06a5daa28f2479c12ea76afed1391e6)] -> id: checkout]
-Clicked on: [[ChromeDriver: chrome on windows (a06a5daa28f2479c12ea76afed1391e6)] -> id: checkout]
+Trying to click on: [[ChromeDriver: chrome on windows (9037375aa396f510b09641e4a4f48d2a)] -> id: checkout]
+Clicked on: [[ChromeDriver: chrome on windows (9037375aa396f510b09641e4a4f48d2a)] -> id: checkout]
 properties file loaded
 Found Element By : By.xpath: //span[contains(text(),'Checkout: Your Information')]
 Found Element By : By.xpath: //span[contains(text(),'Checkout: Your Information')]
 ]]></system-out>
   </testcase>
-  <testcase name="validatecheckout" classname="ecommerce.ecommerce.test.CheckoutOverviewtest" time="1.494">
+  <testcase name="validatecheckout" classname="ecommerce.ecommerce.test.CheckoutOverviewtest" time="1.531">
     <system-out><![CDATA[properties file loaded
 Before navigating to: 'https://www.saucedemo.com/'
 Navigated to:'https://www.saucedemo.com/'
@@ -132,27 +132,27 @@ Found Element By : By.id: password
 Found Element By : By.id: login-button
 Found Element By : By.id: login-button
 Found Element By : By.id: login-button
-Trying to click on: [[ChromeDriver: chrome on windows (a50b0d340517ecded55cc52d4d752c0d)] -> id: login-button]
-Clicked on: [[ChromeDriver: chrome on windows (a50b0d340517ecded55cc52d4d752c0d)] -> id: login-button]
+Trying to click on: [[ChromeDriver: chrome on windows (67713c867ca817dc0ba941c16916cd12)] -> id: login-button]
+Clicked on: [[ChromeDriver: chrome on windows (67713c867ca817dc0ba941c16916cd12)] -> id: login-button]
 properties file loaded
 Found Element By : By.id: add-to-cart-sauce-labs-backpack
 Found Element By : By.id: add-to-cart-sauce-labs-backpack
 Found Element By : By.id: add-to-cart-sauce-labs-backpack
-Trying to click on: [[ChromeDriver: chrome on windows (a50b0d340517ecded55cc52d4d752c0d)] -> id: add-to-cart-sauce-labs-backpack]
-Clicked on: [[ChromeDriver: chrome on windows (a50b0d340517ecded55cc52d4d752c0d)] -> id: add-to-cart-sauce-labs-backpack]
+Trying to click on: [[ChromeDriver: chrome on windows (67713c867ca817dc0ba941c16916cd12)] -> id: add-to-cart-sauce-labs-backpack]
+Clicked on: [[ChromeDriver: chrome on windows (67713c867ca817dc0ba941c16916cd12)] -> id: add-to-cart-sauce-labs-backpack]
 Found Element By : By.className: app_logo
 Found Element By : By.className: app_logo
 Found Element By : By.className: shopping_cart_badge
 Found Element By : By.className: shopping_cart_badge
 Found Element By : By.className: shopping_cart_badge
-Trying to click on: [[ChromeDriver: chrome on windows (a50b0d340517ecded55cc52d4d752c0d)] -> class name: shopping_cart_badge]
-Clicked on: [[ChromeDriver: chrome on windows (a50b0d340517ecded55cc52d4d752c0d)] -> class name: shopping_cart_badge]
+Trying to click on: [[ChromeDriver: chrome on windows (67713c867ca817dc0ba941c16916cd12)] -> class name: shopping_cart_badge]
+Clicked on: [[ChromeDriver: chrome on windows (67713c867ca817dc0ba941c16916cd12)] -> class name: shopping_cart_badge]
 properties file loaded
 Found Element By : By.id: checkout
 Found Element By : By.id: checkout
 Found Element By : By.id: checkout
-Trying to click on: [[ChromeDriver: chrome on windows (a50b0d340517ecded55cc52d4d752c0d)] -> id: checkout]
-Clicked on: [[ChromeDriver: chrome on windows (a50b0d340517ecded55cc52d4d752c0d)] -> id: checkout]
+Trying to click on: [[ChromeDriver: chrome on windows (67713c867ca817dc0ba941c16916cd12)] -> id: checkout]
+Clicked on: [[ChromeDriver: chrome on windows (67713c867ca817dc0ba941c16916cd12)] -> id: checkout]
 properties file loaded
 Found Element By : By.id: first-name
 Found Element By : By.id: first-name
@@ -166,14 +166,14 @@ Found Element By : By.id: postal-code
 Found Element By : By.id: continue
 Found Element By : By.id: continue
 Found Element By : By.id: continue
-Trying to click on: [[ChromeDriver: chrome on windows (a50b0d340517ecded55cc52d4d752c0d)] -> id: continue]
-Clicked on: [[ChromeDriver: chrome on windows (a50b0d340517ecded55cc52d4d752c0d)] -> id: continue]
+Trying to click on: [[ChromeDriver: chrome on windows (67713c867ca817dc0ba941c16916cd12)] -> id: continue]
+Clicked on: [[ChromeDriver: chrome on windows (67713c867ca817dc0ba941c16916cd12)] -> id: continue]
 properties file loaded
 Found Element By : By.id: finish
 Found Element By : By.id: finish
 Found Element By : By.id: finish
-Trying to click on: [[ChromeDriver: chrome on windows (a50b0d340517ecded55cc52d4d752c0d)] -> id: finish]
-Clicked on: [[ChromeDriver: chrome on windows (a50b0d340517ecded55cc52d4d752c0d)] -> id: finish]
+Trying to click on: [[ChromeDriver: chrome on windows (67713c867ca817dc0ba941c16916cd12)] -> id: finish]
+Clicked on: [[ChromeDriver: chrome on windows (67713c867ca817dc0ba941c16916cd12)] -> id: finish]
 properties file loaded
 checkout comple is passed
 Found Element By : By.xpath: //h2[text()="Thank you for your order!"]
@@ -182,15 +182,15 @@ Found Element By : By.xpath: //h2[text()="Thank you for your order!"]
 ]]></system-out>
     <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Rudra\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
-Jul 08, 2024 2:56:43 PM org.openqa.selenium.remote.service.DriverService$Builder getLogOutput
+Jul 08, 2024 3:04:39 PM org.openqa.selenium.remote.service.DriverService$Builder getLogOutput
 INFO: Driver logs no longer sent to console by default; https://www.selenium.dev/documentation/webdriver/drivers/service/#setting-log-output
-Jul 08, 2024 2:56:44 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Jul 08, 2024 3:04:41 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find CDP implementation matching 126
-Jul 08, 2024 2:56:44 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+Jul 08, 2024 3:04:41 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.10.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="validateLogin" classname="ecommerce.ecommerce.test.Logintest" time="0.513">
+  <testcase name="validateLogin" classname="ecommerce.ecommerce.test.Logintest" time="0.525">
     <system-out><![CDATA[properties file loaded
 Before navigating to: 'https://www.saucedemo.com/'
 Navigated to:'https://www.saucedemo.com/'
@@ -204,53 +204,19 @@ Found Element By : By.id: password
 Found Element By : By.id: login-button
 Found Element By : By.id: login-button
 Found Element By : By.id: login-button
-Trying to click on: [[ChromeDriver: chrome on windows (e0f86df44ca5866f1b5cc1440b6fb925)] -> id: login-button]
-Clicked on: [[ChromeDriver: chrome on windows (e0f86df44ca5866f1b5cc1440b6fb925)] -> id: login-button]
+Trying to click on: [[ChromeDriver: chrome on windows (fe7f2fe3f9ec28958ff20c78695a6a87)] -> id: login-button]
+Clicked on: [[ChromeDriver: chrome on windows (fe7f2fe3f9ec28958ff20c78695a6a87)] -> id: login-button]
 properties file loaded
 Found Element By : By.className: app_logo
 Found Element By : By.className: app_logo
 ]]></system-out>
-    <system-err><![CDATA[[AsyncHttpClient-1-7] WARN org.asynchttpclient.netty.handler.WebSocketHandler - onError
-java.net.SocketException: Connection reset
-	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
-	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
-	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
-	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
-	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
-	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
-	at java.base/java.lang.Thread.run(Thread.java:842)
-Jul 08, 2024 2:56:56 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
-WARNING: Connection reset
-java.net.SocketException: Connection reset
-	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
-	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
-	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
-	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
-	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
-	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
-	at java.base/java.lang.Thread.run(Thread.java:842)
-
-[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
+    <system-err><![CDATA[[main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 126.0.6478.126 (resolved driver for Chrome 126)
 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Rudra\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe
-Jul 08, 2024 2:56:57 PM org.openqa.selenium.remote.service.DriverService$Builder getLogOutput
+Jul 08, 2024 3:04:52 PM org.openqa.selenium.remote.service.DriverService$Builder getLogOutput
 INFO: Driver logs no longer sent to console by default; https://www.selenium.dev/documentation/webdriver/drivers/service/#setting-log-output
-Jul 08, 2024 2:56:57 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Jul 08, 2024 3:04:53 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find CDP implementation matching 126
-Jul 08, 2024 2:56:57 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+Jul 08, 2024 3:04:53 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.10.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
