@@ -1,0 +1,9 @@
+ecommerce\saucedemo\pages\ChecoutOverviewPage.class
+ecommerce\saucedemo\pages\CheckoutCompletePage.class
+ecommerce\saucedemo\pages\UserInformationPage.class
+ecommerce\saucedemo\utility\WebEventListener.class
+ecommerce\saucedemo\pages\HomePage.class
+ecommerce\saucedemo\pages\LoginPage.class
+ecommerce\saucedemo\base\TestBase.class
+ecommerce\saucedemo\pages\YourCartPage.class
+ecommerce\saucedemo\utility\TestUtil.class
